@@ -57,7 +57,6 @@ git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 
 # " >> .config
 
-luci-theme-argon-mod
 # 修改主题背景
 cp -f $GITHUB_WORKSPACE/argon/img/bg1.jpg feeds/luci/themes/luci-theme-argon-mod/htdocs/luci-static/argon/img/bg1.jpg
 cp -f $GITHUB_WORKSPACE/argon/img/argon.svg feeds/luci/themes/luci-theme-argon-mod/htdocs/luci-static/argon/img/argon.svg
