@@ -55,7 +55,7 @@ git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 # 易有云
 #CONFIG_PACKAGE_luci-app-linkease=y
 
-" >> .config
+# " >> .config
 
 
 # 修改主题背景
